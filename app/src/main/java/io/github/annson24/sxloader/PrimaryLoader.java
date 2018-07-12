@@ -1,4 +1,4 @@
-package io.github.davidbuchanan314.nxloader;
+package io.github.annson24.sxloader;
 
 /*
  * This exploit is based on fusée gelée: https://github.com/reswitched/fusee-launcher
